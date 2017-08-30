@@ -42,7 +42,9 @@
       ObjectAnimator animator = ObjectAnimator.ofFloat(mTtv, "percent", 0, 1);
       animator.setDuration(10000).start();
       
- - ###示例效果
+ - ### 示例效果
+ 
+ ![image](https://github.com/yanlongRivenK/TrackTextView/blob/master/GIF/tracktextview.gif)
       
 
       
