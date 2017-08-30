@@ -28,5 +28,6 @@ dependencies {
     compile 'com.android.support.constraint:constraint-layout:1.0.2'
     testCompile 'junit:junit:4.12'
 
-    compile project(":yltextview")
+//    compile project(":yltextview")
+    compile 'com.github.yanlongRivenK:TrackTextView:0.1'
 }
